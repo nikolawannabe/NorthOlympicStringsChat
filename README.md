@@ -1,4 +1,4 @@
-# Proposal: Olympic Strings Chat
+# Proposal: North Olympic Strings Chat
 
 # What
 I imagine Olympic Strings Chat to be a group chat with multiple channels for people who are involved in string music on the North Olympic Peninsula.
