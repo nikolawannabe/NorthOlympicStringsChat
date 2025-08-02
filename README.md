@@ -1,7 +1,7 @@
 # Proposal: North Olympic Strings Chat
 
 # What
-I imagine Olympic Strings Chat to be a group chat with multiple channels for people who are involved in string music on the North Olympic Peninsula.
+I imagine North Olympic Strings Chat to be a group chat with multiple channels for people who are involved in string music on the North Olympic Peninsula.
 
 # Rules
 1. Time is a gift.  Every message and every reply should be treated with kindness and respect for those who gift their time.
